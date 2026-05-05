@@ -1,6 +1,6 @@
 # ColdFieldObserver
 
-![Last Update](https://img.shields.io/github/last-commit/ColdFieldObserver/coldfieldobserver.github.io?label=Last%20Update&style=for-the-badge)
+![Last Update](https://img.shields.io/github/last-commit/ColdFieldObserver/ColdFieldObserver?label=Last%20Update&style=for-the-badge)
 [![BiliBili](https://img.shields.io/badge/BiliBili-冷域观者-FF5589?labelColor=FF69B4&style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/3706976248793646)
 [![My GitHub Pages](https://img.shields.io/badge/My%20GitHub%20Pages-555555?style=for-the-badge&logo=github&logoColor=white)](https://coldfieldobserver.github.io)
 [![My Blog](https://img.shields.io/badge/My%20Blog-555555?style=for-the-badge)](https://coldfieldobserver.mysxl.cn)
