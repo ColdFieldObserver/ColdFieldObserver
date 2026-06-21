@@ -1,9 +1,9 @@
 # ColdFieldObserver
 
 ![Last Update](https://img.shields.io/github/last-commit/ColdFieldObserver/ColdFieldObserver?label=Last%20Update&style=for-the-badge)
-[![BiliBili](https://img.shields.io/badge/BiliBili-冷域观者-FF5589?labelColor=FF69B4&style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/3706976248793646)
+[![BiliBili](https://img.shields.io/badge/BiliBili-冷域观者-FF5589?labelColor=FF69B4&style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/3706990868040193)
 [![My GitHub Pages](https://img.shields.io/badge/My%20GitHub%20Pages-555555?style=for-the-badge&logo=github&logoColor=white)](https://coldfieldobserver.github.io)
-[![My Blog](https://img.shields.io/badge/My%20Blog-555555?style=for-the-badge)](https://coldfieldobserver.mysxl.cn)
+[![My Blog](https://img.shields.io/badge/My%20Blog-555555?style=for-the-badge)](https://alonewalkman.wordpress.com)
 
 这里是冷域观者（ColdFieldObserver）的GitHub个人空间。我是一个数码和技术爱好者。
 
