@@ -7,6 +7,6 @@
 
 这里是冷域观者（ColdFieldObserver）的GitHub个人空间。我是一个数码和技术爱好者。
 
-我接触过编程，C、C++、C#、Python、HTML、CSS、JavaScript都懂一点，有时候也会试着用别的语言重构几个易语言项目玩玩（易语言的缺点你们懂的）。<del>只是业余爱好者，别介意哈。</del>
+我接触过编程，C、C++、C#、Python、HTML、CSS、JavaScript都懂一点（最近我也在学Web前端开发），有时候也会试着用别的语言（比如说C#）重构几个易语言项目玩玩（易语言的缺点你们懂的）。~~只是业余爱好者，别介意哈。~~
 
 这几年我不是在创建账号，就是在注销账号，因为我随时都可能被卷入会造成内耗的社交圈子当中。其余的我这里就不展开说了，可以去看看我的[GitHub Pages](https://coldfieldobserver.github.io)。
